@@ -1,7 +1,7 @@
 version: 1.0
 app:
   instances: 1
-  version: 1c17dd78-1ae9-4031-8894-732fb07db5ba
+  version: 4eace740-8dcc-482b-ab63-8e3fddd2f84f
   env:
     - name: JVM_ARGS
       value: "-DenvironmentType=prod"
